@@ -1,6 +1,6 @@
 # [ISBI'23] Learning Covariance-Based Multi-Scale Representation of Neuroimaging Measures for Alzheimer Classification
 
-[Paper](https://arxiv.org/abs/2503.01232v1)
+[Arxiv](https://arxiv.org/abs/2503.01232v1) | [IEEE Xplore](https://ieeexplore.ieee.org/document/10230493)
 
 - This is the official PyTorch implementation of Learning Covariance-Based Multi-Scale Representation of Neuroimaging Measures for Alzheimer Classification.
 
