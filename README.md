@@ -3,7 +3,7 @@
 
 - This is the official PyTorch implementation of ***Learning Covariance-Based Multi-Scale Representation of Neuroimaging Measures for Alzheimer Classification.*** [Arxiv](https://arxiv.org/abs/2503.01232v1) | [IEEE Xplore](https://ieeexplore.ieee.org/document/10230493)
 
-
+<br/><br/>
 <p align="center"><img src="overview.PNG" width="70%" height="70%"/></p>
 
 ## Abstract
